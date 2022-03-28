@@ -1,0 +1,60 @@
+footer{
+    background-color: black;
+    color: white;
+    padding: 50px 0;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+#activo{
+    background-color: brown;
+}
+
+#card-desk {
+    padding-top: 40px;
+}
+#collapsibleNavbar{
+    position: relative;
+    justify-content: right;
+}
+#Navbarizq{
+    position: relative;
+    justify-content: left;
+    color: white;
+    text-align: left;
+    min-height: 80vh;
+}
+
+#acreditacion{
+    position: relative;
+    padding-left: 550px;
+    padding-top: 60px;
+}
+
+#Formulario{
+    background: rgb(69, 100, 204);
+    padding: 45px;
+}
+#Contenido{
+    background: rgb(69, 100, 204);
+}
+.form-registro{
+    width: 95%;
+    margin: auto;
+    background: rgb(179, 134, 134);
+    max-width: 500px;
+    border-radius: 8px;
+}
+.form-group{
+    font-size: 20px;
+    font-family: cursive;
+
+}
+.form-titulo{
+    background: burlywood;
+    font-family: Arial;
+    text-align: center;
+    padding: 15px;
+    border-bottom: solid 5px red;
+    border-radius: 8px 8px 0px 0px;
+}
